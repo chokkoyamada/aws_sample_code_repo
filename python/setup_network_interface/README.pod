@@ -9,4 +9,4 @@ AWS credentials and self instance-id is retrieved in the script itself.
 
 =head1 SYNOPSIS
 
-  python run.py "ENI_ID"
+  python setup_network_interface/run.py "ENI_ID"
