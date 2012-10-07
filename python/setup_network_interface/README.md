@@ -1,0 +1,2 @@
+このサンプルコードでは、引数に渡されたENI(Elastic Network Interface)を自分にattachします。
+AWSへアクセスする際に必要な認証キー関連と自分のインスタンスIDは、スクリプト内でmeta-dataサービスから取得しています。
